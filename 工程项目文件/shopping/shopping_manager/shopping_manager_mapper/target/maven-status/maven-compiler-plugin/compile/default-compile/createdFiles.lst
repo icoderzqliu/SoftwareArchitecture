@@ -1,0 +1,3 @@
+org\example\mapper\UserMapper.class
+org\example\mapper\ProductMapper.class
+org\example\mapper\ProductCategoryMapper.class

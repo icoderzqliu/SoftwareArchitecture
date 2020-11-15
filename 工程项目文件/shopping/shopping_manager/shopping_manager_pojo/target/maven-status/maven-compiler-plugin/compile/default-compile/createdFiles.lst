@@ -1,0 +1,15 @@
+org\example\pojo\UserExample$GeneratedCriteria.class
+org\example\pojo\ProductExample$GeneratedCriteria.class
+org\example\pojo\ProductExample$Criterion.class
+org\example\pojo\UserExample$Criterion.class
+org\example\pojo\ProductCategoryExample$Criteria.class
+org\example\pojo\ProductCategoryExample$Criterion.class
+org\example\pojo\ProductExample.class
+org\example\pojo\User.class
+org\example\pojo\ProductCategoryExample$GeneratedCriteria.class
+org\example\pojo\ProductExample$Criteria.class
+org\example\pojo\UserExample.class
+org\example\pojo\UserExample$Criteria.class
+org\example\pojo\ProductCategory.class
+org\example\pojo\Product.class
+org\example\pojo\ProductCategoryExample.class

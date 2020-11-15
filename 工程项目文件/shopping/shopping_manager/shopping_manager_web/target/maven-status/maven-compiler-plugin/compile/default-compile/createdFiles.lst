@@ -1,0 +1,7 @@
+org\example\controller\PageController.class
+org\example\controller\ProductCategoryController.class
+org\example\controller\ProductController.class
+org\example\controller\UserController.class
+org\example\controller\FreeMarkerTest.class
+org\example\fastdfs\FastDFSClient.class
+org\example\controller\FileController.class

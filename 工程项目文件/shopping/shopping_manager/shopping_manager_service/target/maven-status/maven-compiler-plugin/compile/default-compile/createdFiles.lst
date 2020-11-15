@@ -1,0 +1,6 @@
+org\example\service\impl\UserServiceImpl.class
+org\example\service\IProductService.class
+org\example\service\impl\ProductServiceImpl.class
+org\example\service\IProductCategoryService.class
+org\example\service\IUserService.class
+org\example\service\impl\ProductCategoryServiceImpl.class

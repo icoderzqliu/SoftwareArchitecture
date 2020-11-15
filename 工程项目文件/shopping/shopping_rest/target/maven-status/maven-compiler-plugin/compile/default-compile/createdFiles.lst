@@ -1,0 +1,6 @@
+org\example\rest\service\impl\ProductServiceImpl.class
+org\example\rest\controller\ProductCategoriesController.class
+org\example\rest\service\IProductService.class
+org\example\rest\service\impl\ProductCategoriesServiceImpl.class
+org\example\rest\controller\ProductController.class
+org\example\rest\service\IProductCategoriesService.class

@@ -1,0 +1,7 @@
+org\example\portal\controller\IndexController.class
+org\example\portal\util\GsonUtils.class
+org\example\portal\service\impl\ProductServiceImpl.class
+org\example\portal\service\IProductService.class
+org\example\portal\controller\FreeMarkerTest.class
+org\example\portal\service\ICategoriesService.class
+org\example\portal\service\impl\CategoriesServiceImpl.class

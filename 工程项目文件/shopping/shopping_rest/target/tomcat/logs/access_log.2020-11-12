@@ -1,0 +1,4 @@
+127.0.0.1 - - [12/Nov/2020:23:40:03 +0800] "GET /rest/productCategories/list HTTP/1.1" 200 370 http-bio-8088-exec-1 280
+127.0.0.1 - - [12/Nov/2020:23:40:03 +0800] "GET /rest/product/list HTTP/1.1" 200 3333 http-bio-8088-exec-3 65
+127.0.0.1 - - [12/Nov/2020:23:41:45 +0800] "GET /rest/productCategories/list HTTP/1.1" 200 370 http-bio-8088-exec-5 29
+127.0.0.1 - - [12/Nov/2020:23:41:45 +0800] "GET /rest/product/list HTTP/1.1" 200 3333 http-bio-8088-exec-7 13
